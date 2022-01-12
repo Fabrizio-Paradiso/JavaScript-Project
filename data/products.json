@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "brand": "Puerto Blest",
+    "country": "Colombia",
+    "price": 499.99,
+    "quantity": 0,
+    "pathimg": "../brands/puerto-blest-colombia.jpg"
+  },
+  {
+    "id": 1,
+    "brand": "Puerto Blest",
+    "country": "Nicaragua",
+    "price": 479.99,
+    "quantity": 0,
+    "pathimg": "../brands/puerto-blest-nicaragua.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Puerto Blest",
+    "country": "El Salvador",
+    "price": 439.99,
+    "quantity": 0,
+    "pathimg": "../brands/puerto-blest-salvador.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "John & Joe",
+    "country": "Brasil",
+    "price": 639.99,
+    "quantity": 0,
+    "pathimg": "../brands/john-joe-brasil.png"
+  },
+  {
+    "id": 4,
+    "brand": "John & Joe",
+    "country": "Colombia",
+    "price": 719.99,
+    "quantity": 0,
+    "pathimg": "../brands/john-joe-colombia.png"
+  },
+  {
+    "id": 5,
+    "brand": "John & Joe",
+    "country": "México",
+    "price": 699.99,
+    "quantity": 0,
+    "pathimg": "../../brands/john-joe-mexico.png"
+  }
+]
